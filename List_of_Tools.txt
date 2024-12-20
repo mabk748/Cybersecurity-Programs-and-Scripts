@@ -1,0 +1,166 @@
+Here’s a list of 100+ hacking tools:
+
+Reconnaissance Tools
+
+    Nmap
+    Shodan
+    Maltego
+    Recon-ng
+    theHarvester
+    FOCA
+    SpiderFoot
+    Axiom
+
+Exploitation Tools
+
+    Metasploit
+    Armitage
+    BeEF
+    Exploit-DB
+    SQLMap
+    Nikto
+    W3AF
+    Burp Suite
+    Acunetix
+
+Wireless Hacking Tools
+
+    Aircrack-ng
+    Kismet
+    Wireshark
+    Reaver
+    Wifiphisher
+    PixieWPS
+    Fern WiFi Cracker
+    Wifite
+
+Password Cracking Tools
+
+    John the Ripper
+    Hashcat
+    Hydra
+    Medusa
+    Cain and Abel
+    Ophcrack
+    RainbowCrack
+
+Network Hacking Tools
+
+    Ettercap
+    Yersinia
+    dSniff
+    Netcat
+    Nping
+    Scapy
+    Angry IP Scanner
+    LAN Turtle
+
+Social Engineering Tools
+
+    SET (Social-Engineer Toolkit)
+    Gophish
+    HiddenEye
+
+Web Application Testing Tools
+
+    OWASP ZAP
+    Fiddler
+    Vega
+    Netsparker
+
+Forensic Tools
+
+    Autopsy
+    Sleuth Kit
+    Volatility
+    FTK Imager
+    Magnet Forensics
+
+Malware Analysis Tools
+
+    Cuckoo Sandbox
+    REMnux
+    CAPE Sandbox
+    IDA Pro
+    OllyDbg
+
+Mobile Hacking Tools
+
+    APKTool
+    Drozer
+    Frida
+    AndroRAT
+
+Proxy Tools
+
+    Charles Proxy
+    ProxyChains
+
+Phishing Tools
+
+    King Phisher
+    PhishTank
+    Evilginx2
+
+OSINT Tools
+
+    OSINT Framework
+    Datasploit
+    Spyse
+
+Privilege Escalation Tools
+
+    LinPEAS
+    WinPEAS
+    PowerSploit
+
+Denial of Service Tools
+
+    LOIC
+    HOIC
+    Slowloris
+    GoldenEye
+
+Exploit Development Tools
+
+    Immunity Debugger
+    Fuzzbunch
+
+Reverse Engineering Tools
+
+    Ghidra
+    Radare2
+    Binary Ninja
+
+Code Injection Tools
+
+    SQLNinja
+    Commix
+
+Cloud Security Tools
+
+    ScoutSuite
+    Prowler
+    CloudSploit
+
+Miscellaneous Tools
+
+    Nikto
+    DNSRecon
+    DirBuster
+    WPScan
+    Sublist3r
+    Amass
+
+Ethical Use Notice
+
+    Exploitation should always occur in authorized environments.
+    Misuse of these tools is illegal.
+    Practice ethical standards in cybersecurity.
+    Additional Tools
+
+    Sn1per – A powerful automated scanner for vulnerability assessment.
+    NoSQLMap – Tool for exploiting NoSQL databases like MongoDB.
+    XSStrike – Advanced XSS detection and exploitation suite.
+    Empire – A post-exploitation framework for gaining persistent access.
+    MITMf (Man-in-the-Middle Framework) – Comprehensive tool for MITM attacks.
