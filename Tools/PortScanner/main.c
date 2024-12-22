@@ -1,12 +1,12 @@
-#include <pthread.h>
-#include <sys/select.h>
-#include <netdb.h>
-#include <sys/fcntl.h>
-#include <arpa/inet.h>
-#include <unistd.h>
+#include <pthread.h>    // For creating and managing threads
+#include <sys/select.h> // For monitoring multiple file descriptors (used in socket operations)
+#include <netdb.h>      // For network-related utilities (e.g., resolving hostnames)
+#include <sys/fcntl.h>  // For setting non-blocking mode on sockets
+#include <arpa/inet.h>  // For converting hostnames/IPs to network addresses
+#include <unistd.h>     // For system calls like sleep() and close()
 
-#include "ArgParse.h"
-#include "PortScan.h"
+#include "ArgParse.h"   // For command-line argument parsing
+#include "PortScan.h"   // Contains declarations for the port scanner
 
 #define MAX_THREADS 500
 

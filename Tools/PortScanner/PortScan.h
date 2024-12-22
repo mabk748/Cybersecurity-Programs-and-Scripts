@@ -1,5 +1,5 @@
 // This file carries all functions declaration and structure definitons
-#include <netinet/in.h>
+#include <netinet/in.h> // provides definitions for network-related data structures, constants, and macros
 
 struct thread_opts {
     char host[INET_ADDRSTRLEN];

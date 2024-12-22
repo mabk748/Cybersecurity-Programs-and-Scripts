@@ -1,9 +1,9 @@
 // This file contain functions and structures responsible for parsing arguments.
 
-#include <argp.h>
-#include <stdlib.h>
-#include <error.h>
-#include <string.h>
+#include <argp.h>   // Used for command-line argument parsing
+#include <stdlib.h> // Provides functions for Memory Management, Conversion, Process Control, and Random Numbers
+#include <error.h>  // Provides functions to handle and report errors in a standardized way
+#include <string.h> // Provides functions to manipulate C-style strings and memory blocks
 
 struct arguments
 {
