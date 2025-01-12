@@ -1,0 +1,5 @@
+Hello, world! 
+This is a simple text file to test encryption and decryption.
+The quick brown fox jumps over the lazy dog.
+1234567890
+!@#$%^&*()_+
